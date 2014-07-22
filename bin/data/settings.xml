@@ -1,0 +1,7 @@
+<distance_in_mm>
+	<minDistance>960</minDistance>
+	<maxDistance>1680</maxDistance>
+	<Offset_X>-410</Offset_X>
+	<Offset_Y>-82</Offset_Y>
+	<Min_Blob>30</Min_Blob>
+</distance_in_mm>
